@@ -1,0 +1,9 @@
+.img-carrousel {
+    height: 500px;
+
+}
+
+body {
+    background-image: url(./Imagenes/fueguito.jpg);
+    color: aliceblue;
+}
